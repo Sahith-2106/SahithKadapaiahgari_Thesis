@@ -1,0 +1,125 @@
+{
+  "sections": [
+    {
+      "box_index": 8,
+      "label": "paragraph_title",
+      "coordinates": [
+        202.4964599609375,
+        133.7379913330078,
+        1383.3126220703125,
+        234.6392364501953
+      ],
+      "ocr_text": "‚Vorherrschende Arbeitsbedingungen",
+      "confidence": 0.7457351684570312
+    },
+    {
+      "box_index": 1,
+      "label": "text",
+      "coordinates": [
+        197.7549285888672,
+        288.62969970703125,
+        3047.9462890625,
+        1114.4913330078125
+      ],
+      "ocr_text": "Backwaren werden fast ausschließlich in Serien- und Massenfertigung, produziert. Das\ntrifft auch für kleine Backbetriebe zu: Die Einzelanfertigung ist eine Ausnahme und\nbezieht sich meist nur auf die äußere Gestaltung eines Gebäckes,.z. B. ‚bei einer Torte\nzu besonderen Anlässen. Aus organisatorischen und lebensmittelhygienischen Grün-\nden bestehen in den meisten Betrieben für die verschiedenen Gebäcksorten spezielle\nBereiche oder Abteilungen. An.der Herstellung eines Erzeugnisses sind oft.: mehrere\nKollegen beteiligt. Sie arbeiten also grundsätzlich in einem Kollektiv. Die Arbeitszeit -\nin den Betrieben ist sehr differenziert geregelt. In großen. Betrieben wird rund um die\nUhr, .d. h. im 3- oder 4-Schichtsystem gearbeitet, wobei für einzelne Bereiche bzw. Be-\ntriebe auch ein 2-Schichtsystem festgelegt sein kann. In kleineren und mittelgroßen",
+      "confidence": 0.9690017104148865
+    },
+    {
+      "box_index": 0,
+      "label": "image",
+      "coordinates": [
+        203.4596710205078,
+        1206.6790771484375,
+        2188.0546875,
+        2515.799072265625
+      ],
+      "ocr_text": "",
+      "confidence": 0.9742142558097839
+    },
+    {
+      "box_index": 4,
+      "label": "image_caption",
+      "coordinates": [
+        2248.08642578125,
+        1212.5225830078125,
+        2943.91015625,
+        1357.111572265625
+      ],
+      "ocr_text": "Die Teigstation in ‚einem\nBackwarengroßbetrieb",
+      "confidence": 0.9176775813102722
+    },
+    {
+      "box_index": 2,
+      "label": "text",
+      "coordinates": [
+        165.9437713623047,
+        2596.9013671875,
+        3027.18359375,
+        3509.56640625
+      ],
+      "ocr_text": "Betrieben wären Sie entweder mehrschichtig oder in gestaffelter Arbeitszeit tätig. Vor\nFeiertagen werden an den Backwarenfacharbeiter hohe Anforderungen gestellt, um die\nVersorgung der Bevölkerung‘ mit Backwären über die Festtage hinweg zu sichern. Hier\n‚wird Ihre Einsatzbereitschaft besonders gefordert. A En PR\n\nAls Backwarenfacharbeiter arbeiten Sie in geschlossenen, größtenteils. warmen und:\ntrockenen Räumen. Die Arbeitsstätten sind vielfach ‚mit Ventilatoren ausgestattet, um\nbesonders in der warmen Jahreszeit die Arbeitsbedingungen zu verbessern. Die Tä-.\ntigkeiten verrichten Sie vorwiegend im Stehen. Die Mehlstaub- und. Lärmbelästigung\n‚ist in den einzelnen Arbeitsbereichen unterschiedlich. Die höheren Temperaturen an\nden Backöfen empfinden Sie erfahrungsgemäß nicht als unangenehm, weil Sie: sich\nin. der Regel nach kurzer Zeit an die Wärme gewöhnt: haben. ; en",
+      "confidence": 0.9665560126304626
+    },
+    {
+      "box_index": 6,
+      "label": "main_heading",
+      "coordinates": [
+        178.54727172851562,
+        3607.886962890625,
+        3019.433349609375,
+        3828.344482421875
+      ],
+      "ocr_text": "3. Welchen Anforderungen müssen Sie in diesem Beruf gerecht\nwerden? ; A Ba SE",
+      "confidence": 0.9075496196746826
+    },
+    {
+      "box_index": 5,
+      "label": "paragraph_title",
+      "coordinates": [
+        175.0314178466797,
+        3877.269775390625,
+        1006.7155151367188,
+        3971.89697265625
+      ],
+      "ocr_text": "Psychische Anforderungen",
+      "confidence": 0.9146173596382141
+    },
+    {
+      "box_index": 3,
+      "label": "text",
+      "coordinates": [
+        162.09298706054688,
+        4022.482421875,
+        3003.485107421875,
+        4463.0009765625
+      ],
+      "ocr_text": "Ihr Verantwortüungsbewußtsein für die Versorgung der Bevölkerung sollte soweit. ausge-\nprägt sein, daß mit Ihrer Arbeit täglich frische Backwaren in genügender Menge und in\nguter Qualität produziert werden. Bei Störungen an Maschinen müssen Sie schnell und\nrichtig reagieren, um die Rohstoffe und Halbfertigerzeugnisse nicht dem Verderb aus-\n\nzusetzen. Da Sie vorwiegend im Kollektiv arbeiten, wird von Ihnen eine bewußte Ein-",
+      "confidence": 0.9549521207809448
+    },
+    {
+      "box_index": 9,
+      "label": "page_number",
+      "coordinates": [
+        158.77684020996094,
+        4497.322265625,
+        237.7708740234375,
+        4591.15380859375
+      ],
+      "ocr_text": "4",
+      "confidence": 0.6975184082984924
+    },
+    {
+      "box_index": 7,
+      "label": "berufsnummer",
+      "coordinates": [
+        1416.9332275390625,
+        4507.36181640625,
+        1731.384765625,
+        4608.90185546875
+      ],
+      "ocr_text": "B 462 18",
+      "confidence": 0.8646553754806519
+    }
+  ],
+  "footnotes": []
+}

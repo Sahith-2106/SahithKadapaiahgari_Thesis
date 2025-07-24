@@ -1,0 +1,149 @@
+{
+  "sections": [
+    {
+      "box_index": 10,
+      "label": "main_heading",
+      "coordinates": [
+        463.5278625488281,
+        191.69223022460938,
+        3161.35009765625,
+        322.6701354980469
+      ],
+      "ocr_text": "5. Welche Einsatz- und Weiterbildungsmöglichkeiten gibt es?",
+      "confidence": 0.8224456906318665
+    },
+    {
+      "box_index": 6,
+      "label": "paragraph_title",
+      "coordinates": [
+        460.1603088378906,
+        411.918701171875,
+        1123.8521728515625,
+        503.1463928222656
+      ],
+      "ocr_text": "‚Einsatzmöglichkeiten",
+      "confidence": 0.8727403879165649
+    },
+    {
+      "box_index": 4,
+      "label": "text",
+      "coordinates": [
+        458.22332763671875,
+        546.152587890625,
+        3261.524169921875,
+        953.5120849609375
+      ],
+      "ocr_text": "Backwarenfacharbeiter werden in allen: Bezirken in den Backwarenbetrieben der volks-\n‚eigenen Industrie, der Konsumgenossenschaften, der Produktionsgenossenschaften des\nHandwerks und in Betrieben des privaten Handwerks sowie in Hotel- und Gaststätten-\nbetrieben, Kaufhallenbäckereien und, an, Bord von Handels- und. anderen ‚Übersee-\nschiffen benötigt.",
+      "confidence": 0.8886134624481201
+    },
+    {
+      "box_index": 8,
+      "label": "text",
+      "coordinates": [
+        454.5472106933594,
+        965.0097045898438,
+        3279.93603515625,
+        1213.25830078125
+      ],
+      "ocr_text": "Spezielle Einsatzgebiete bestehen entsprechend der. Größe und Struktur des Betriebes:\nz. B. in der Teigstation, als BINNEN Torten- oder Seh Backposten, an Baumkuchen-\nbackgeräten u. a.m. 7 |",
+      "confidence": 0.8689951300621033
+    },
+    {
+      "box_index": 7,
+      "label": "paragraph_title",
+      "coordinates": [
+        465.9163513183594,
+        1300.110107421875,
+        1390.6754150390625,
+        1397.4617919921875
+      ],
+      "ocr_text": "Weiterbildungsmöglichkeiten",
+      "confidence": 0.8714467287063599
+    },
+    {
+      "box_index": 0,
+      "label": "text",
+      "coordinates": [
+        460.5145263671875,
+        1442.316650390625,
+        3281.30078125,
+        2751.822509765625
+      ],
+      "ocr_text": "In der beruflichen Arbeit eignen Sie sich weitere Kenntnisse, Fertigkeiten und Erfahrun-\ngen an, um damit auf bestimmten Gebieten als Spezialist zu gelten. Bei Bedarf werden\nSie in entsprechenden Lehrgängen dazu befähigt, Speiseeis, Lebkuchen und spezielle |\nKonditoreiwaren herzustellen und erwerben zusätzliche , Qualifikationsnachweise, z. B,\nals Patissier. Durch die breite Grundlagenbildung sind Sie auch in der Lage, erforder-\nlichenfalls die zweite Spezialisierungsrichtung in. relativ kurzer Zeit‘ zu erlernen. Bei.\nEignung können Sie als Brigadier oder Schichtleiter eingesetzt werden. Bei herausra- \\\ngenden. Leistungen. ist es auch. möglich, eine Ausbildung zum Meister des Bäcker- und\nKonditorhandwerks bzw. zum Meister der sozialistischen Industrie, Spezialisierung Back-\n‚waren, aufzunehmen oder ‚eine Fachschüle zu besuchen. Dort können Sie sich z. B. zu,\neinem Ingenieur der Lebensmittelindustrie oder Ingenieurpädagogen (Lehrkraft für den\nberufspraktischen Unterricht) entwickeln. Nach Erwerb der Hochschulreife wäre auch ein\nHochschulstudium denkbar. Darüber hinaus besteht die Möglichkeit der Ausbildung in\nmilitärischen Berufen. (zum Berufsunteroffizier mit Meisterqualifikation, Fähnrich mit\nFachschulabschluß oder Berufsoffizier mit Diplom), _ insbesondere in der Fachrichtung\nRückwärtige Dienste.\n\n\\",
+      "confidence": 0.9322729706764221
+    },
+    {
+      "box_index": 1,
+      "label": "credits",
+      "coordinates": [
+        456.9851989746094,
+        3179.561767578125,
+        3261.71142578125,
+        3540.75341796875
+      ],
+      "ocr_text": "Dieses weiterentwickelte Berufsbild wurde ausgearbeitet von der zuständigen Berufsfathkommission-\nunter Federführung von B. Ketteniß, VEB Institut für Getreideverarbeitung, in Zusammenarbeit bzw.\nAbstimmung mit Dr. R. Vetter, Zentralstelle für Berufsbildung des Ministeriums für Bezirksgeleitete\nIndustrie und Lebensmittelindustrie.sowie Dr. sc. med, K. Ruppe, Zentralinstitut für Arbeitsmedizin der\n:DDR. Wissenschaftliche Beratur.gg und Endbearbeitung durch J. Ehmer, Zentralinstitut für Berufsbildung\nder DDR. ; ; ; | I",
+      "confidence": 0.9062023162841797
+    },
+    {
+      "box_index": 3,
+      "label": "disclaimer",
+      "coordinates": [
+        459.1375427246094,
+        3565.431884765625,
+        3262.306884765625,
+        3749.842041015625
+      ],
+      "ocr_text": "Das Berufsbild wurde unter Verwendung zugänglicher wesentlicher Daten erarbeitet. Wegen der Viel-\nfalt‘ der beruflichen, betrieblichen und territorialen Bedingungen wird kein Anspruch auf Vallständig-\nkeit erhoben. ; Ä © | Eos | |",
+      "confidence": 0.9051728844642639
+    },
+    {
+      "box_index": 2,
+      "label": "copyright",
+      "coordinates": [
+        474.0096435546875,
+        3779.202880859375,
+        1602.125732421875,
+        3949.614013671875
+      ],
+      "ocr_text": "© 1987 by Staatsverlag der DDR, Berlin\n'3., überarbeitete Auflage\nVLN 610 - DDR - Lizenz-Nr. 751 - 2285/87",
+      "confidence": 0.9057734608650208
+    },
+    {
+      "box_index": 5,
+      "label": "publisher_info",
+      "coordinates": [
+        481.286865234375,
+        3961.82421875,
+        3245.47314453125,
+        4143.72900390625
+      ],
+      "ocr_text": "Meragusgeber: Zentralinstitut tur Derufsbildung der DDR ; ; a\nNur für die Nutzung in der DDR bestimmt. Nachdruck (auch auszugsweise) nur mit Genehmigung des\nHerausgebers gestattet. . ; w. ; “. ; )\n\nCoatbasa,sı 1 MA aba mndt | 1 5 DO AH | « PO HA 14 A (A V U Il abar Dil imasırmalicstr | a5 AN Zar:",
+      "confidence": 0.886647641658783
+    },
+    {
+      "box_index": 9,
+      "label": "imprint",
+      "coordinates": [
+        484.7076110839844,
+        4226.58056640625,
+        1705.8367919921875,
+        4402.4169921875
+      ],
+      "ocr_text": "Printed in the German Democratic Republic\nGesamtherstellung: Staatsdruckerei der DDR\nRedaktionsschluß: 13. 11.1987 ; I",
+      "confidence": 0.8589357733726501
+    },
+    {
+      "box_index": 11,
+      "label": "order_number",
+      "coordinates": [
+        466.3178405761719,
+        4398.04833984375,
+        1303.12255859375,
+        4502.03076171875
+      ],
+      "ocr_text": "Bestellnummer: B 46 2 18",
+      "confidence": 0.8089977502822876
+    }
+  ],
+  "footnotes": []
+}

@@ -1,0 +1,101 @@
+{
+  "sections": [
+    {
+      "box_index": 0,
+      "label": "list_item",
+      "coordinates": [
+        314.64312744140625,
+        180.33888244628906,
+        3228.52392578125,
+        944.3405151367188
+      ],
+      "ocr_text": "Wesentliche - ©\n_Arbeitsaufgaben:\n\nProduktion von Brot; Brötchen, Kuchen, Torten, d. HS\n\n“Vorbereiten der‘ Rohstoffe, Bereiten ‚und „Formen: der\n; Teige‘ und - Massen; Füllen oder Belegen mit Obst-,\n‘ Quark- u. a, Backmassen; ‘Backen; Fertigstellen der Ge-\n\nbäckstücke, wie Füllen mit Krems oder Sahne, .Einstrei-.\nchen mit Zuckerguß oder Schokoladenüberzügen,. Ausde-\nkorieren von Torten und Dessertstücken; Bedienen, War- R\nten und Pflegen: von Maschinen; Säubern von Arbeitsmit-\n\n0 AM NE TUE KEAS TaHA\n\n„ L",
+      "confidence": 0.9525227546691895
+    },
+    {
+      "box_index": 3,
+      "label": "list_item",
+      "coordinates": [
+        372.0234680175781,
+        1021.6384887695312,
+        3229.9755859375,
+        1302.4554443359375
+      ],
+      "ocr_text": "Einsatzmöglichkeiten‘; un! Backwarenbetrieben aller. Eigentumsformen sowie\nRK 1 backwarenproduzierenden Bereichen in Hotel- und Gast-\nCN ANA ) ARTE stättenbetrieben, Kaufhallen. und Schiffsküchen",
+      "confidence": 0.9275586009025574
+    },
+    {
+      "box_index": 1,
+      "label": "list_item",
+      "coordinates": [
+        364.9388732910156,
+        1370.1514892578125,
+        3241.841796875,
+        1727.7821044921875
+      ],
+      "ocr_text": "Weiterbildungsmöglichkeiten: Im. Beruf Erwerb. weiterer spezieller Kenntnisse und Fä-\n_higkeiten (z. B. für die Tätigkeit. als Patissier) sowie der\nzweiten Spezialisierungsrichtung; Meisterausbildung?\n\nFachschulstudium a |",
+      "confidence": 0.9406178593635559
+    },
+    {
+      "box_index": 2,
+      "label": "list_item",
+      "coordinates": [
+        363.8780212402344,
+        1800.527099609375,
+        3259.841796875,
+        2164.493896484375
+      ],
+      "ocr_text": "Psychische Anforderungen: Verantwortungsbewußtsein; ‚Selbständigkeit; Ausdauer;\nN logisches und schöpferisches Denken; ästhetisches. Emp-.\nKON finden; Bereitschaft zur ‘Schichtarbeit; gutes Reaktions-\nund Konzentrationsvermögen.. 1",
+      "confidence": 0.9308076500892639
+    },
+    {
+      "box_index": 4,
+      "label": "list_item",
+      "coordinates": [
+        370.8853759765625,
+        2229.71728515625,
+        3255.712646484375,
+        2519.83935546875
+      ],
+      "ocr_text": "Physische Anforderungen: ı Normale körperliche Konstitution: gesunde Haut: ‚dus- ;\n08 ; reichend korrigierbares Sehwermögen! gutes Geschmacks- x\nempfinden MEAN\n\n= A < \\",
+      "confidence": 0.9138404726982117
+    },
+    {
+      "box_index": 5,
+      "label": "list_item",
+      "coordinates": [
+        369.7317199707031,
+        3011.057861328125,
+        3245.19873046875,
+        3313.545654296875
+      ],
+      "ocr_text": "Ähnliche Facharbeiterberufe: Facharbeiter für Lebensmitteltechnik;” Spezialisierungs-\nA } richtung Backwaren; Facharbeiter für‘ ‚Däuerback- and:\n‚Teigwaren EC ) Y",
+      "confidence": 0.8834291696548462
+    },
+    {
+      "box_index": 6,
+      "label": "berufsnummer",
+      "coordinates": [
+        1632.95703125,
+        4536.41796875,
+        1957.2337646484375,
+        4656.77685546875
+      ],
+      "ocr_text": "B 462 18",
+      "confidence": 0.8167371153831482
+    },
+    {
+      "box_index": 7,
+      "label": "page_number",
+      "coordinates": [
+        374.4931640625,
+        4538.30322265625,
+        472.78375244140625,
+        4643.83349609375
+      ],
+      "ocr_text": "2",
+      "confidence": 0.675204336643219
+    }
+  ],
+  "footnotes": []
+}

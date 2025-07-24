@@ -1,0 +1,113 @@
+{
+  "sections": [
+    {
+      "box_index": 1,
+      "label": "text",
+      "coordinates": [
+        297.8488464355469,
+        200.34237670898438,
+        3129.444580078125,
+        955.11962890625
+      ],
+      "ocr_text": "ordnung In das Kollektiv verlangt. Dennoch müssen Sie selbständig arbeiten, Ausdauer\nbeweisen, logisch und 'schöpferisch denken, wenn es darum: geht, für neue Erzeugnisse\nRezepturen und Formempfehlungen vorzuschlagen. Ästhetik in der Arbeitsausführung\nwie korrekte Formen, gute Dekor- bzw. Farbabstimmung sowie die dezente Ge-\nschmacksgebung sind eindeutig von Ihnen abhängig. Beim Dekprieren von Torten :und\nDessertstückchen müssen Sie sich besonders konzentrieren und eine sichere Hand ha-\nben für die bizarren oder schwungvollen Muster aus, dünnen Sthokoladen- oder Ei-\nweißspritzglasuren.: Auch’ ein Bäcker beweist beim Herstellen von Frühstücksgebäcken\naus Brotteigen ästhetisches Formempfinden. ! a |\n\n| a a N N N N .. u\n\nFi I 5 a Um A",
+      "confidence": 0.961268961429596
+    },
+    {
+      "box_index": 4,
+      "label": "text",
+      "coordinates": [
+        285.3026428222656,
+        953.033203125,
+        3123.4912109375,
+        1256.8177490234375
+      ],
+      "ocr_text": "MN A RES MSTE TUr, DacCkKer der sehr Irühe Arbeitsbeginn fordern von\nIhnen ein bewußtes Einhalten der Arbeits- und Freizeit. Persönliche Hygiene, besondere\nSauberkeit am Arbeitsplatz und eine überzeugte Einstellung zur gesunden Le\n\n| bensweise'\nsind Verhaltenseigenschaften, die man von Ihnen erwartet. )",
+      "confidence": 0.9432264566421509
+    },
+    {
+      "box_index": 5,
+      "label": "text",
+      "coordinates": [
+        299.2928466796875,
+        1335.69873046875,
+        1502.3690185546875,
+        1627.92138671875
+      ],
+      "ocr_text": "Gewickelte Hörnchen werden auf das Back-\nblech. gelegt. Der’ Bäcker kann Hörnchen\nvon Hand, aber auch mit einer Maschine\nwickeln- und formen ;",
+      "confidence": 0.871448278427124
+    },
+    {
+      "box_index": 0,
+      "label": "image",
+      "coordinates": [
+        1553.221435546875,
+        1380.5718994140625,
+        3068.445556640625,
+        3318.1396484375
+      ],
+      "ocr_text": "",
+      "confidence": 0.9745123386383057
+    },
+    {
+      "box_index": 7,
+      "label": "paragraph_title",
+      "coordinates": [
+        268.2477722167969,
+        3384.017822265625,
+        1068.917724609375,
+        3489.1044921875
+      ],
+      "ocr_text": "Physische Anforderungen",
+      "confidence": 0.849120557308197
+    },
+    {
+      "box_index": 2,
+      "label": "text",
+      "coordinates": [
+        250.7154998779297,
+        3603.90380859375,
+        3078.021728515625,
+        4092.040771484375
+      ],
+      "ocr_text": "Das Kneten, Ausrollen und. Formen des Teiges wie auch das Zubereiten von Gebäcken\n\nund das Garnieren von Torten erfordern Beweglichkeit und Kraft in den Fingern, Hän-\n‚den und Armen. Um die Güte eines Teiges einschätzen und die Qualität der Erzeugnisse\nbeurteilen. zu können, sollten insbesondere Geruchs-, -Geschmacks- und. Tastsinn gut\n‚entwickelt sein. Wenn Sie eine Brille tragen, ist das kein‘ Nachteil, aber die Farbtüch-\n\ntigkeit sollte normal sein. . Sn ;",
+      "confidence": 0.959304690361023
+    },
+    {
+      "box_index": 3,
+      "label": "text",
+      "coordinates": [
+        245.87197875976562,
+        4106.6572265625,
+        3083.057373046875,
+        4500.103515625
+      ],
+      "ocr_text": "CS T19Ut SOME Intakt Sein. und nicht zu Ausschlag neigen, da‘sie mit Mehl und ande:\nren Rohstoffen sowie mit Wasser und fettlöslichen Reinigungsmitteln in Berührung kom-\nmen. Das’ — wenn auch kurzzeitige — Heben und Tragen von Lasten liegt in erlaubten\nGrenzen. Die ausschließlich stehende Beschäftigung wird für Sie nach der zehnjährigen\nSchulzeit eine Umstellung bedeuten. | A ER ;",
+      "confidence": 0.9441274404525757
+    },
+    {
+      "box_index": 6,
+      "label": "berufsnummer",
+      "coordinates": [
+        1503.4007568359375,
+        4579.078125,
+        1808.612548828125,
+        4679.44677734375
+      ],
+      "ocr_text": "B 46 2 18",
+      "confidence": 0.8570592403411865
+    },
+    {
+      "box_index": 8,
+      "label": "page_number",
+      "coordinates": [
+        2962.45166015625,
+        4599.60791015625,
+        3059.81298828125,
+        4701.01416015625
+      ],
+      "ocr_text": "5",
+      "confidence": 0.6893911957740784
+    }
+  ],
+  "footnotes": []
+}

@@ -1,0 +1,125 @@
+{
+  "sections": [
+    {
+      "box_index": 8,
+      "label": "main_heading",
+      "coordinates": [
+        267.1973571777344,
+        191.47027587890625,
+        1533.5186767578125,
+        289.9808044433594
+      ],
+      "ocr_text": "Mögliche Tauglichkeitseinschränkungen",
+      "confidence": 0.7759267091751099
+    },
+    {
+      "box_index": 2,
+      "label": "text",
+      "coordinates": [
+        263.9304504394531,
+        348.8590393066406,
+        3110.306640625,
+        851.6614990234375
+      ],
+      "ocr_text": "In jedem Fall ist es günstig, vor der Berufsentscheidung Gewißheit über die Tauglich-\nkeit für den gewählten Facharbeiterberuf zu haben. Über Möglichkeiten der Berufs-\ntauglichkeitsuntersuchung vor der Bewerbung können Sie sich im Lehrstellenverzeichnis\nbzw. im Berufsberatungszentrum informieren. Von einer Ausbildung in diesem Beruf\nwird Ihnen der Betriebsarzt möglicherweise abraten bei Schäden am Stütz- und Bewe-\ngungssystem mit erheblicher Funktionsminderung; bei nicht ausreichend korrigierbarem_",
+      "confidence": 0.9628992676734924
+    },
+    {
+      "box_index": 5,
+      "label": "image_caption",
+      "coordinates": [
+        2317.1328125,
+        928.4791259765625,
+        3080.2109375,
+        1305.1829833984375
+      ],
+      "ocr_text": "In den Kesseln der Schlag-\nund Rührgeräte bzw. An-\nschlagmaschinen. werden\nKrems gerührt und Kondi-\ntoreimassen geschlagen",
+      "confidence": 0.9130160808563232
+    },
+    {
+      "box_index": 0,
+      "label": "image",
+      "coordinates": [
+        299.7314758300781,
+        970.4315795898438,
+        2278.475830078125,
+        2555.507080078125
+      ],
+      "ocr_text": "",
+      "confidence": 0.9731711745262146
+    },
+    {
+      "box_index": 3,
+      "label": "text",
+      "coordinates": [
+        287.63348388671875,
+        2657.73974609375,
+        3137.50390625,
+        3086.4423828125
+      ],
+      "ocr_text": "Sehvermögen; bei Hautkrankheiten und allergischen Krankheiten am Atmungsorgan\n(z. B. Heuschnupfen und Bronchialasthma) sowie in dem Fall, daß Sie Dauerausscheider\nvon Krankheitserregern sind. Der Betriebsarzt wird entscheiden, ob ein Einsatz im ge-\nnannten Beruf und im jeweiligen Betrieb dennoch möglich ist, ggf. unter Anwendung\nder betreffenden gesetzlichen Bestimmungen der Bewerbungsordnung. .",
+      "confidence": 0.9552346467971802
+    },
+    {
+      "box_index": 4,
+      "label": "main_heading",
+      "coordinates": [
+        318.9786071777344,
+        3381.141845703125,
+        1858.648193359375,
+        3518.084716796875
+      ],
+      "ocr_text": "4. Was beinhaltet die Ausbildung?",
+      "confidence": 0.9280264377593994
+    },
+    {
+      "box_index": 6,
+      "label": "paragraph_title",
+      "coordinates": [
+        311.76019287109375,
+        3659.507080078125,
+        950.857177734375,
+        3762.9619140625
+      ],
+      "ocr_text": "Grundlagenbildung",
+      "confidence": 0.87933748960495
+    },
+    {
+      "box_index": 1,
+      "label": "text",
+      "coordinates": [
+        306.2117004394531,
+        3817.90380859375,
+        3149.684326171875,
+        4487.751953125
+      ],
+      "ocr_text": "Die Grundlagenbildung wird für beide Spezialisierungsrichtungen im ersten Lehrjahr\neinheitlich‘ durchgeführt. N ‚\n\nNeben der Vermittlung der Grundlagenfächer werden Sie sich/im berufstheoretischen\nUnterricht vor- allem Kenntnisse über die Herstellung von Backwaren und die. dazu ge-\nhörigen technischen Ausrüstungen und verschiedenartigen Herstellungsverfahren. an-\neignen, Im, Ausbildungsbetrieb beginnt der berufspraktische Unterricht mit dem Ken-\nnenlernen der Rohstoffe, und bereits in den ersten Wochen stellen Sie schon verkaufs-\nfähige Kuchen her, z. B. aus Hefekuchenteig. Günstig wäre es, wenn Sie Ihr Interesse,",
+      "confidence": 0.9629293084144592
+    },
+    {
+      "box_index": 7,
+      "label": "berufsnummer",
+      "coordinates": [
+        1570.442138671875,
+        4542.58154296875,
+        1878.97802734375,
+        4644.91162109375
+      ],
+      "ocr_text": "B 462 18",
+      "confidence": 0.8638180494308472
+    },
+    {
+      "box_index": 9,
+      "label": "page_number",
+      "coordinates": [
+        313.0345458984375,
+        4560.95654296875,
+        400.0952453613281,
+        4658.216796875
+      ],
+      "ocr_text": "6",
+      "confidence": 0.7102713584899902
+    }
+  ],
+  "footnotes": []
+}

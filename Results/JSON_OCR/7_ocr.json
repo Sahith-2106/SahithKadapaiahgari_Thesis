@@ -1,0 +1,113 @@
+{
+  "sections": [
+    {
+      "box_index": 8,
+      "label": "text",
+      "coordinates": [
+        310.7556457519531,
+        192.34750366210938,
+        3128.104248046875,
+        438.12518310546875
+      ],
+      "ocr_text": "zum Backen bereits zu Hause in der Hobbyküche, in einer. Arbeitsgemeinschaft oder in\nfakultativen Kursen — z.B. Kochen, Servieren, Pflegen oder Mikrobiologie — unter Be-\nweis gestellt haben. A er",
+      "confidence": 0.7963425517082214
+    },
+    {
+      "box_index": 3,
+      "label": "text",
+      "coordinates": [
+        311.63641357421875,
+        447.93927001953125,
+        3138,
+        843.584228515625
+      ],
+      "ocr_text": "In der Berufsschule wird auf das. Wissen aus der polytechnischen Oberschule aufgebaut,\nz.B. auf Ihre’ Kenntnisse in den Fächern Chemie (Säuren, Basen, Salze, Kohlenwasser-\nstoffe), Biologie (z. B..Stoff- und Energiewechsel), Einführung in die sozialistische Pro-\nduktion (z: B. grundlegende Bauteile von Maschinen) sowie auf Ihre bereits im. Fach‘\nProduktive Arbeit angeeigneten Fähigkeiten.",
+      "confidence": 0.9360413551330566
+    },
+    {
+      "box_index": 5,
+      "label": "paragraph_title",
+      "coordinates": [
+        323.109619140625,
+        936.25830078125,
+        1148.420654296875,
+        1030.2696533203125
+      ],
+      "ocr_text": "Berufliche Spezialbildung",
+      "confidence": 0.9093921780586243
+    },
+    {
+      "box_index": 2,
+      "label": "text",
+      "coordinates": [
+        305.5163879394531,
+        1077.78125,
+        3138,
+        1802.6549072265625
+      ],
+      "ocr_text": "Im zweiten Lehrjahr erhalten Sie die berufliche Spezialbildung.- Hauptanliegen ist es,\nIhnen spezielle Kenntnisse in der von Ihnen bereits beim Lehrvertragsabschluß gewähl-\nten Spezialisierungsrichtung zu vermitteln und die entsprechenden, Arbeitsfertigkeiten\nzu‘ entwickeln. Das sind in der Spezialisierungsrichtung Bäcker insbesondere Fähigkei-\nten und Fertigkeiten zum Herstellen der verschiedenen Brotsorten. wie Roggenbrot,\nMischbrot, Spezialbrot, Diätbrot und” eines umfangreichen Sortiments. an Weizenge-\nbäcken wie Weißbrot, Brötchen, Semmeln, Mohnzöpfe u.a. m. Ein gutschmeckendes Brot\nund knusprige. Brötchen zu backen, gehört ‘zur Bäckerehre und erfordert spezielle\nKenntnisse und Fertigkeiten.",
+      "confidence": 0.9651358127593994
+    },
+    {
+      "box_index": 4,
+      "label": "text",
+      "coordinates": [
+        306.5148010253906,
+        1814.1575927734375,
+        3132.407958984375,
+        2043.22998046875
+      ],
+      "ocr_text": "do kann man die Sauerteigbereitung und die weitere Brotteigverarbeitung bis hin zum\nBacken-von Roggen-, Misch- und Spezialbrot. als die Handwerkskunst des Bäckers be-\nzeichnen. DK",
+      "confidence": 0.9146382808685303
+    },
+    {
+      "box_index": 6,
+      "label": "image_caption",
+      "coordinates": [
+        316.7108154296875,
+        2140.58935546875,
+        1093.718505859375,
+        2507.9892578125
+      ],
+      "ocr_text": "Für einen Konditor erfordert\ndas Auftragen des Dekors\nnoch immer viel manuellen\nAufwand und Geschicklich:\nkeit",
+      "confidence": 0.8855432868003845
+    },
+    {
+      "box_index": 0,
+      "label": "image",
+      "coordinates": [
+        1156.8048095703125,
+        2160.703857421875,
+        3113.406982421875,
+        3575.423828125
+      ],
+      "ocr_text": "",
+      "confidence": 0.9687778949737549
+    },
+    {
+      "box_index": 1,
+      "label": "text",
+      "coordinates": [
+        301.66571044921875,
+        3667.7626953125,
+        3132.72216796875,
+        4479.21435546875
+      ],
+      "ocr_text": "In der Spezialisierungsrichtung Konditor eignen Sie sich Kenntnisse und Fertigkeiten\nzum Herstellen von Torten, Desserts, speziellen Kuchensorten und weiterer konditorei-\ntypischer Backwären an. Dazu gehören z.B. das Bereiten von Krems und Füllungen,\nBrand- und Makronenmassen und das Garnieren von. Torten. und Desserts. Zusätzlich\nzur speziellen Verfahrenslehre werden Sie in Gestaltungslehre unterrichtet, wo: Sie Gar-\nnierungsvorschläge zunächst. als Entwürfe auf Zeichenpapier in Farbe oder mit Tusche‘\nanfertigen und sich .auch in der Schriftgestaltung üben. In einem besonderen ‚Eehrgang\nDekor lernen Sie, das in’. die Praxis umzusetzen,\n\nIn den letzten: Monaten der Ausbildung werden Sie bereits an Ihrem zukünftigen Ar;\nbeitsplatz eingesetzt.",
+      "confidence": 0.9659439325332642
+    },
+    {
+      "box_index": 7,
+      "label": "berufsnummer",
+      "coordinates": [
+        1563.822021484375,
+        4548.2216796875,
+        1869.7978515625,
+        4646.36962890625
+      ],
+      "ocr_text": "B 462 18",
+      "confidence": 0.8536456227302551
+    }
+  ],
+  "footnotes": []
+}

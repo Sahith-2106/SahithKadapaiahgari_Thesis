@@ -1,0 +1,101 @@
+{
+  "sections": [
+    {
+      "box_index": 3,
+      "label": "berufsnummer",
+      "coordinates": [
+        2462.10888671875,
+        253.18751525878906,
+        3155.48583984375,
+        485.3065185546875
+      ],
+      "ocr_text": "Berufsnummer:",
+      "confidence": 0.9129222631454468
+    },
+    {
+      "box_index": 5,
+      "label": "document_title",
+      "coordinates": [
+        493.8417053222656,
+        264.1207580566406,
+        1916.8079833984375,
+        394.6822814941406
+      ],
+      "ocr_text": "Berufsbild für die Berufsberatung",
+      "confidence": 0.888351559638977
+    },
+    {
+      "box_index": 6,
+      "label": "profession_title",
+      "coordinates": [
+        477.9903564453125,
+        889.4876098632812,
+        1882.764404296875,
+        1109.39013671875
+      ],
+      "ocr_text": "Backwarenfacharbeiter",
+      "confidence": 0.871954083442688
+    },
+    {
+      "box_index": 7,
+      "label": "year",
+      "coordinates": [
+        2909.505126953125,
+        953.16455078125,
+        3166.65087890625,
+        1089.8931884765625
+      ],
+      "ocr_text": "1987",
+      "confidence": 0.7771666049957275
+    },
+    {
+      "box_index": 0,
+      "label": "image",
+      "coordinates": [
+        435.0425720214844,
+        1284.5006103515625,
+        3234.40869140625,
+        3137.099365234375
+      ],
+      "ocr_text": "",
+      "confidence": 0.9688552021980286
+    },
+    {
+      "box_index": 1,
+      "label": "list_item",
+      "coordinates": [
+        430.0496520996094,
+        3217.34130859375,
+        1947.6934814453125,
+        3438.24365234375
+      ],
+      "ocr_text": "@ Erforderliche Abschluß der 10. Klasse\n- Schulbildung: ; Re",
+      "confidence": 0.9294328093528748
+    },
+    {
+      "box_index": 2,
+      "label": "list_item",
+      "coordinates": [
+        438.10614013671875,
+        3495.9921875,
+        2008.6871337890625,
+        3697.67919921875
+      ],
+      "ocr_text": "® Ausbildungs- ‘Zum Facharbeiter 2 Jahre\ndauer: ä",
+      "confidence": 0.9164378046989441
+    },
+    {
+      "box_index": 4,
+      "label": "list_item",
+      "coordinates": [
+        438.4267272949219,
+        3763.4873046875,
+        1741.704833984375,
+        3962.6953125
+      ],
+      "ocr_text": "© Spezialisierungs- Bäcker; Konditor\nrichtungen:",
+      "confidence": 0.9010685682296753
+    }
+  ],
+  "footnotes": []
+}
