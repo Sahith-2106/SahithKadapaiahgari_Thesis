@@ -11,6 +11,7 @@ The goal of this thesis is to design, develop, and evaluate an end-to-end system
 - Handles semantic features such as **Berufstitel**, **Berufsnummern**, and training descriptions
 
 > 📄 Full documentation: [Thesis PDF](https://raw.githubusercontent.com/Sahith-2106/SahithKadapaiahgari_Thesis/main/Documentation/SaiVenkataSahithReddyKadapaiahgari_22220197807282025_032752.PDF)
+> 📄 Full documentation: [Thesis Technical Documentation PDF](https://raw.githubusercontent.com/Sahith-2106/SahithKadapaiahgari_Thesis/blob/main/Documentation/SaiVenkataSahithReddyKadapaiahgari_TechnicalDocumentation_22220197807282025_032752.PDF)
 
 ---
 
