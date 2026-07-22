@@ -1,6 +1,6 @@
 # TEI Conversion Pipeline for Historical Vocational Documents
 
-This project presents a custom pipeline for converting scanned historical vocational training documents—specifically from the German Democratic Republic (GDR)—into semantically rich **TEI XML** representations. The pipeline integrates OCR, layout detection, and semantic tagging, tailored for a unique corpus of structured job descriptions preserved by the **Bundesinstitut für Berufsbildung (BIBB)**.
+This project presents a custom pipeline for converting scanned historical vocational training documents—specifically from the German Democratic Republic (GDR) into semantically rich **TEI XML** representations. The pipeline integrates OCR, layout detection, and semantic tagging, tailored for a unique corpus of structured job descriptions preserved by the **Bundesinstitut für Berufsbildung (BIBB)**.
 
 ## 📜 Thesis Overview
 
@@ -10,7 +10,7 @@ The goal of this thesis is to design, develop, and evaluate an end-to-end system
 - Extracts structured data and maps it to TEI-compliant XML
 - Handles semantic features such as **Berufstitel**, **Berufsnummern**, and training descriptions
 
-> 📄 Full documentation: [Thesis PDF](https://github.com/Sahith-2106/SahithKadapaiahgari_Thesis/blob/main/Thesis_Documentation.pdf)
+> 📄 Full documentation: [Thesis PDF](https://github.com/Sahith-2106/SahithKadapaiahgari_Thesis/blob/main/Documentation/SaiVenkataSahithReddyKadapaiahgari_22220197807282025_032752.PDF)
 
 ---
 
